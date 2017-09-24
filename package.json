@@ -1,0 +1,16 @@
+{
+  "name": "locatorize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test",
+    "start": "node ./"
+  },
+  "author": "Dan Young",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "~3.5.3",
+    "chai": "~4.1.2"
+  }
+}
